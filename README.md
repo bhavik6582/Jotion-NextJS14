@@ -1,24 +1,5 @@
 # Next.js 14 Jotion
 
-<!-- GitHub badges -->
-
-[![Latest release](https://img.shields.io/github/v/release/bhavik/nextjs14-Jotion?label=Latest%20release&style=social)](https://github.com/bhavik/nextjs14-Jotion/releases/tag/v0.1.0)
-[![Stars](https://img.shields.io/github/stars/Bhavik/nextjs14-Jotion?style=social)](https://github.com/Bhavik/nextjs14-Jotion/stargazers)
-[![Fork](https://img.shields.io/github/forks/Bhavik/nextjs14-Jotion?style=social)](https://github.com/Bhavik/nextjs14-Jotion/forks)
-[![GitHub commits](https://img.shields.io/github/commit-activity/t/Bhavik/nextjs14-Jotion?style=social&logo=github)](https://github.com/Bhavik/nextjs14-Jotion/commits)
-[![Pull requests](https://img.shields.io/github/issues-pr/Bhavik/nextjs14-Jotion?style=social&logo=github)](https://github.com/Bhavik/nextjs14-Jotion/pulls)
-
-![demo](https://i.ibb.co/Qm9fb95/nextjs14-Jotion-vercel-app-1.png)
-
-[![Bhavik](https://custom-icon-badges.demolab.com/badge/made%20by%20-Bhavik-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/bhavik6582)
-
-
-[![Contributors](https://img.shields.io/github/contributors/Bhavik/nextjs14-Jotion?style=flat&color=orange&label=Contributors)](https://github.com/Bhavik/nextjs14-Jotion/graphs/contributors)
-
-## 🌐 Live Demo
-
-Explore the live demonstration of the project: [nextjs14-Jotion](https://nextjs14-Jotion.vercel.app/)
-
 ## 📝 Description
 
 **Jotion** is a Jotion-like application built with Next.js 14, React, Convex, Tailwind, Clerk, and EdgeStore. It is a real-time database and Jotion-style editor that allows you to create, edit, and delete documents. It also allows you to publish your note to the web.
