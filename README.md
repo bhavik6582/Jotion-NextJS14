@@ -10,14 +10,10 @@
 
 ![demo](https://i.ibb.co/Qm9fb95/nextjs14-Jotion-vercel-app-1.png)
 
-[![Bhavik](https://custom-icon-badges.demolab.com/badge/made%20by%20-Bhavik-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
-[![License](https://img.shields.io/github/license/Bhavik/nextjs14-Jotion?color=dddddd&labelColor=000000)](https://github.com/Bhavik/nextjs14-Jotion/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/Bhavik/nextjs14-Jotion?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
+[![Bhavik](https://custom-icon-badges.demolab.com/badge/made%20by%20-Bhavik-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/bhavik6582)
+
+
 [![Contributors](https://img.shields.io/github/contributors/Bhavik/nextjs14-Jotion?style=flat&color=orange&label=Contributors)](https://github.com/Bhavik/nextjs14-Jotion/graphs/contributors)
-![Release](https://img.shields.io/github/release/Bhavik/nextjs14-Jotion.svg)
-![PRs](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=shields)
-![deployment](https://img.shields.io/github/deployments/Bhavik/nextjs14-Jotion/Production?logo=vercel&label=Website)
-[![Known Vulnerabilities](https://snyk.io/test/github/Bhavik/nextjs14-Jotion/badge.svg)](https://snyk.io/test/github/Bhavik/nextjs14-Jotion)
 
 ## 🌐 Live Demo
 
