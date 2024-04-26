@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://mutual-hamster-59.clerk.accounts.dev",
+      domain: "https://proud-anemone-28.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],

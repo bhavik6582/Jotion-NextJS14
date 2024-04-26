@@ -16,7 +16,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title:
-    "Notion - The all-in-one workspace for your notes, tasks, wikis, and databases.",
+    "Jotion - Navigate your creativity.",
   description: "All your notes in one place, wherever you are. 📝",
   icons: {
     icon: [
@@ -49,7 +49,7 @@ export default function RootLayout({
               defaultTheme="system"
               enableSystem
               disableTransitionOnChange
-              storageKey="notion-theme"
+              storageKey="Jotion-theme"
             >
               <Toaster position="bottom-center" />
               <ModalProvider />

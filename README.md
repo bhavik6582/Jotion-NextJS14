@@ -1,36 +1,36 @@
-# Next.js 14 Notion
+# Next.js 14 Jotion
 
 <!-- GitHub badges -->
 
-[![Latest release](https://img.shields.io/github/v/release/ladunjexa/nextjs14-notion?label=Latest%20release&style=social)](https://github.com/ladunjexa/nextjs14-notion/releases/tag/v0.1.0)
-[![Stars](https://img.shields.io/github/stars/ladunjexa/nextjs14-notion?style=social)](https://github.com/ladunjexa/nextjs14-notion/stargazers)
-[![Fork](https://img.shields.io/github/forks/ladunjexa/nextjs14-notion?style=social)](https://github.com/ladunjexa/nextjs14-notion/forks)
-[![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/nextjs14-notion?style=social&logo=github)](https://github.com/ladunjexa/nextjs14-notion/commits)
-[![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/nextjs14-notion?style=social&logo=github)](https://github.com/ladunjexa/nextjs14-notion/pulls)
+[![Latest release](https://img.shields.io/github/v/release/ladunjexa/nextjs14-Jotion?label=Latest%20release&style=social)](https://github.com/ladunjexa/nextjs14-Jotion/releases/tag/v0.1.0)
+[![Stars](https://img.shields.io/github/stars/ladunjexa/nextjs14-Jotion?style=social)](https://github.com/ladunjexa/nextjs14-Jotion/stargazers)
+[![Fork](https://img.shields.io/github/forks/ladunjexa/nextjs14-Jotion?style=social)](https://github.com/ladunjexa/nextjs14-Jotion/forks)
+[![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/nextjs14-Jotion?style=social&logo=github)](https://github.com/ladunjexa/nextjs14-Jotion/commits)
+[![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/nextjs14-Jotion?style=social&logo=github)](https://github.com/ladunjexa/nextjs14-Jotion/pulls)
 
-![demo](https://i.ibb.co/Qm9fb95/nextjs14-notion-vercel-app-1.png)
+![demo](https://i.ibb.co/Qm9fb95/nextjs14-Jotion-vercel-app-1.png)
 
 [![ladunjexa](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
-[![License](https://img.shields.io/github/license/ladunjexa/nextjs14-notion?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/nextjs14-notion/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/ladunjexa/nextjs14-notion?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
-[![Contributors](https://img.shields.io/github/contributors/ladunjexa/nextjs14-notion?style=flat&color=orange&label=Contributors)](https://github.com/ladunjexa/nextjs14-notion/graphs/contributors)
-![Release](https://img.shields.io/github/release/ladunjexa/nextjs14-notion.svg)
+[![License](https://img.shields.io/github/license/ladunjexa/nextjs14-Jotion?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/nextjs14-Jotion/blob/main/LICENSE)
+[![Top Language](https://img.shields.io/github/languages/top/ladunjexa/nextjs14-Jotion?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
+[![Contributors](https://img.shields.io/github/contributors/ladunjexa/nextjs14-Jotion?style=flat&color=orange&label=Contributors)](https://github.com/ladunjexa/nextjs14-Jotion/graphs/contributors)
+![Release](https://img.shields.io/github/release/ladunjexa/nextjs14-Jotion.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=shields)
-![deployment](https://img.shields.io/github/deployments/ladunjexa/nextjs14-notion/Production?logo=vercel&label=Website)
-[![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/nextjs14-notion/badge.svg)](https://snyk.io/test/github/ladunjexa/nextjs14-notion)
+![deployment](https://img.shields.io/github/deployments/ladunjexa/nextjs14-Jotion/Production?logo=vercel&label=Website)
+[![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/nextjs14-Jotion/badge.svg)](https://snyk.io/test/github/ladunjexa/nextjs14-Jotion)
 
 ## 🌐 Live Demo
 
-Explore the live demonstration of the project: [nextjs14-notion](https://nextjs14-notion.vercel.app/)
+Explore the live demonstration of the project: [nextjs14-Jotion](https://nextjs14-Jotion.vercel.app/)
 
 ## 📝 Description
 
-**Notion** is a Notion-like application built with Next.js 14, React, Convex, Tailwind, Clerk, and EdgeStore. It is a real-time database and Notion-style editor that allows you to create, edit, and delete documents. It also allows you to publish your note to the web.
+**Jotion** is a Jotion-like application built with Next.js 14, React, Convex, Tailwind, Clerk, and EdgeStore. It is a real-time database and Jotion-style editor that allows you to create, edit, and delete documents. It also allows you to publish your note to the web.
 
 <details><summary><b>Folder Structure</b></summary>
 
 ```bash
-nextjs14-notion/
+nextjs14-Jotion/
 ├── app/
 ├   ├── (main)/
 ├   ├   ├── (routes)/
@@ -165,7 +165,7 @@ nextjs14-notion/
 
 ## ✨ Technologies Used
 
-<details><summary><b>Notion</b> is built using the following technologies:</summary>
+<details><summary><b>Jotion</b> is built using the following technologies:</summary>
 
 - [TypeScript](https://www.typescriptlang.org/): TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 - [Next.js](https://nextjs.org/): Next.js is a React framework for building server-side rendered and statically generated web applications.
@@ -177,7 +177,7 @@ nextjs14-notion/
 - [Prettier](https://prettier.io/): Prettier is an opinionated code formatter.
 - [Shadcn-UI](https://ui.shadcn.com/): Shadcn UI is a React UI library that helps developers rapidly build modern web applications.
 - [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction): Zustand is a small, fast and scalable bearbones state-management solution.
-- [BlockNote](https://blocknote.dev/): BlockNote is a Notion-like editor for React.
+- [BlockNote](https://blocknote.dev/): BlockNote is a Jotion-like editor for React.
 - [Zod](https://zod.dev/): Zod is a TypeScript-first schema declaration and validation library.
 - [Vercel](https://vercel.com/): Vercel is a cloud platform for frontend developers, providing the frameworks, workflows, and infrastructure to build a faster, more personalized Web.
 
@@ -214,7 +214,7 @@ Also, you need to create a JWT template in Clerk and define the JWKS Endpoint as
 Download or clone this repo by using the link below:
 
 ```bash
-git clone https://github.com/ladunjexa/nextjs14-notion.git
+git clone https://github.com/ladunjexa/nextjs14-Jotion.git
 ```
 
 **Step 2:**
@@ -255,7 +255,7 @@ Environment variables[^6] can be used for configuration. They must be set before
 
 > [Environment variables](https://en.wikipedia.org/wiki/Environment_variable) are variables that are set in the operating system or shell, typically used to configure programs.
 
-**Notion** uses [Convex](https://appwrite.io), and [Clerk](https://clerk.com) as external services. You need to create an accounts on Convex and Clerk and get the required credentials to run the app.
+**Jotion** uses [Convex](https://appwrite.io), and [Clerk](https://clerk.com) as external services. You need to create an accounts on Convex and Clerk and get the required credentials to run the app.
 
 Create a `.env` file in the root directory of the project and add the following environment variables:
 
@@ -284,20 +284,20 @@ npm run build
 
 The easiest way to deploy this Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fladunjexa%2Fnextjs14-notion)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fladunjexa%2Fnextjs14-Jotion)
 
 #### Deploy on Netlify
 
 You can also deploy this Next.js app with [Netlify](https://www.netlify.com/).
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ladunjexa/nextjs14-notion)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ladunjexa/nextjs14-Jotion)
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## 💡 Features
 
 - Real-time database 🔗
-- Notion-style editor 📝
+- Jotion-style editor 📝
 - Light and Dark mode 🌓
 - Infinite children documents 🌲
 - Trash can & soft delete 🗑️
@@ -316,7 +316,7 @@ Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment)
 
 ## 🔧 Contributing
 
-[![contributors](https://contrib.rocks/image?repo=ladunjexa/nextjs14-notion)](https://github.com/ladunjexa/nextjs14-notion/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=ladunjexa/nextjs14-Jotion)](https://github.com/ladunjexa/nextjs14-Jotion/graphs/contributors)
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -331,9 +331,9 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ### 📩 Bug / Feature Request
 
-If you find a bug (failure of a module to execute its intended function), kindly open an issue [here](https://github.com/ladunjexa/nextjs14-notion/issues/new) by including the issue with a title and clear description.
+If you find a bug (failure of a module to execute its intended function), kindly open an issue [here](https://github.com/ladunjexa/nextjs14-Jotion/issues/new) by including the issue with a title and clear description.
 
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ladunjexa/nextjs14-notion/issues/new). Please include sample queries and their corresponding results.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ladunjexa/nextjs14-Jotion/issues/new). Please include sample queries and their corresponding results.
 
 ## 💎 Acknowledgements
 
@@ -357,7 +357,7 @@ project and made it possible:
 
 ## 📚 References
 
-CodeWithAntonio. (2023). [Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind](https://www.codewithantonio.com/projects/notes-app). E-Learning.
+CodeWithAntonio. (2023). [Fullstack Jotion Clone: Next.js 13, React, Convex, Tailwind](https://www.codewithantonio.com/projects/notes-app). E-Learning.
 
 ## 📞 Contact Us
 
@@ -370,4 +370,4 @@ CodeWithAntonio. (2023). [Fullstack Notion Clone: Next.js 13, React, Convex, Tai
 
 ## 📋 License
 
-**Notion** is open source software [licensed as MIT](https://opensource.org/license/mit/) and is free to use — See [LICENSE](https://github.com/ladunjexa/nextjs14-notion/blob/main/LICENSE) for more details.
+**Jotion** is open source software [licensed as MIT](https://opensource.org/license/mit/) and is free to use — See [LICENSE](https://github.com/ladunjexa/nextjs14-Jotion/blob/main/LICENSE) for more details.

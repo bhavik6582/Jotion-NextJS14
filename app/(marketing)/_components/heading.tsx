@@ -52,7 +52,7 @@ export const Heading = () => {
         . Together.
       </h1>
       <h3 className="text-base font-medium sm:text-xl md:text-2xl">
-        Notion is the connected workspace where <br />
+        Jotion is the connected workspace where <br />
         better, faster work happens.
       </h3>
       {isLoading && (
@@ -63,7 +63,7 @@ export const Heading = () => {
       {isAuthenticated && !isLoading && (
         <Button asChild>
           <Link href="/documents">
-            Enter Notion
+            Enter Jotion
             <ArrowRight className="ml-2 h-4 w-4" />
           </Link>
         </Button>
@@ -71,7 +71,7 @@ export const Heading = () => {
       {!isAuthenticated && !isLoading && (
         <SignInButton mode="modal">
           <Button>
-            Get Notion
+            Get Jotion
             <ArrowRight className="ml-2 h-4 w-4" />
           </Button>
         </SignInButton>
