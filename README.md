@@ -2,22 +2,22 @@
 
 <!-- GitHub badges -->
 
-[![Latest release](https://img.shields.io/github/v/release/ladunjexa/nextjs14-Jotion?label=Latest%20release&style=social)](https://github.com/ladunjexa/nextjs14-Jotion/releases/tag/v0.1.0)
-[![Stars](https://img.shields.io/github/stars/ladunjexa/nextjs14-Jotion?style=social)](https://github.com/ladunjexa/nextjs14-Jotion/stargazers)
-[![Fork](https://img.shields.io/github/forks/ladunjexa/nextjs14-Jotion?style=social)](https://github.com/ladunjexa/nextjs14-Jotion/forks)
-[![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/nextjs14-Jotion?style=social&logo=github)](https://github.com/ladunjexa/nextjs14-Jotion/commits)
-[![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/nextjs14-Jotion?style=social&logo=github)](https://github.com/ladunjexa/nextjs14-Jotion/pulls)
+[![Latest release](https://img.shields.io/github/v/release/bhavik/nextjs14-Jotion?label=Latest%20release&style=social)](https://github.com/bhavik/nextjs14-Jotion/releases/tag/v0.1.0)
+[![Stars](https://img.shields.io/github/stars/Bhavik/nextjs14-Jotion?style=social)](https://github.com/Bhavik/nextjs14-Jotion/stargazers)
+[![Fork](https://img.shields.io/github/forks/Bhavik/nextjs14-Jotion?style=social)](https://github.com/Bhavik/nextjs14-Jotion/forks)
+[![GitHub commits](https://img.shields.io/github/commit-activity/t/Bhavik/nextjs14-Jotion?style=social&logo=github)](https://github.com/Bhavik/nextjs14-Jotion/commits)
+[![Pull requests](https://img.shields.io/github/issues-pr/Bhavik/nextjs14-Jotion?style=social&logo=github)](https://github.com/Bhavik/nextjs14-Jotion/pulls)
 
 ![demo](https://i.ibb.co/Qm9fb95/nextjs14-Jotion-vercel-app-1.png)
 
-[![ladunjexa](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
-[![License](https://img.shields.io/github/license/ladunjexa/nextjs14-Jotion?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/nextjs14-Jotion/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/ladunjexa/nextjs14-Jotion?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
-[![Contributors](https://img.shields.io/github/contributors/ladunjexa/nextjs14-Jotion?style=flat&color=orange&label=Contributors)](https://github.com/ladunjexa/nextjs14-Jotion/graphs/contributors)
-![Release](https://img.shields.io/github/release/ladunjexa/nextjs14-Jotion.svg)
+[![Bhavik](https://custom-icon-badges.demolab.com/badge/made%20by%20-Bhavik-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
+[![License](https://img.shields.io/github/license/Bhavik/nextjs14-Jotion?color=dddddd&labelColor=000000)](https://github.com/Bhavik/nextjs14-Jotion/blob/main/LICENSE)
+[![Top Language](https://img.shields.io/github/languages/top/Bhavik/nextjs14-Jotion?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
+[![Contributors](https://img.shields.io/github/contributors/Bhavik/nextjs14-Jotion?style=flat&color=orange&label=Contributors)](https://github.com/Bhavik/nextjs14-Jotion/graphs/contributors)
+![Release](https://img.shields.io/github/release/Bhavik/nextjs14-Jotion.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=shields)
-![deployment](https://img.shields.io/github/deployments/ladunjexa/nextjs14-Jotion/Production?logo=vercel&label=Website)
-[![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/nextjs14-Jotion/badge.svg)](https://snyk.io/test/github/ladunjexa/nextjs14-Jotion)
+![deployment](https://img.shields.io/github/deployments/Bhavik/nextjs14-Jotion/Production?logo=vercel&label=Website)
+[![Known Vulnerabilities](https://snyk.io/test/github/Bhavik/nextjs14-Jotion/badge.svg)](https://snyk.io/test/github/Bhavik/nextjs14-Jotion)
 
 ## 🌐 Live Demo
 
@@ -214,7 +214,7 @@ Also, you need to create a JWT template in Clerk and define the JWKS Endpoint as
 Download or clone this repo by using the link below:
 
 ```bash
-git clone https://github.com/ladunjexa/nextjs14-Jotion.git
+https://github.com/bhavik6582/Jotion-nextJS14.git
 ```
 
 **Step 2:**
@@ -284,13 +284,13 @@ npm run build
 
 The easiest way to deploy this Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fladunjexa%2Fnextjs14-Jotion)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FBhavik%2Fnextjs14-Jotion)
 
 #### Deploy on Netlify
 
 You can also deploy this Next.js app with [Netlify](https://www.netlify.com/).
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ladunjexa/nextjs14-Jotion)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Bhavik/nextjs14-Jotion)
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
@@ -327,12 +327,6 @@ To fix a bug or enhance an existing module, follow these steps:
 5. Push to the branch (`git push origin improve-feature`)
 6. Create a Pull Request 🎉
 
-### 📩 Bug / Feature Request
-
-If you find a bug (failure of a module to execute its intended function), kindly open an issue [here](https://github.com/ladunjexa/nextjs14-Jotion/issues/new) by including the issue with a title and clear description.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ladunjexa/nextjs14-Jotion/issues/new). Please include sample queries and their corresponding results.
-
 ## 💎 Acknowledgements
 
 I'd like to express my gratitude to the following people who helped me with this
@@ -359,6 +353,6 @@ CodeWithAntonio. (2023). [Fullstack Jotion Clone: Next.js 13, React, Convex, Tai
 
 ## 📞 Contact Us
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ladunjexa-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/bhavik2805)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ladunjexa-blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/bhavik-mehta-7512a9291)
-[![Instagram](https://img.shields.io/badge/Instagram-ladunjexa-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/bhavik6582)
+[![Telegram](https://img.shields.io/badge/Telegram-Bhavik-2CA5E0?style=social&logo=telegram&logoColor=000000)](https://t.me/bhavik2805)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavik-mehta--blue?style=flat&logo=linkedin&logoColor=b0c0c0&labelColor=363D44)](https://www.linkedin.com/in/bhavik-mehta-7512a9291)
+[![Instagram](https://img.shields.io/badge/Instagram-Bhavik-grey?style=flat&logo=instagram&logoColor=b0c0c0&labelColor=8134af)](https://www.instagram.com/bhavik6582)
